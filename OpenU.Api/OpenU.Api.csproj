@@ -5,6 +5,12 @@
     <PackageId>Openu.Api</PackageId>
     <Version>1.0.0</Version>
     <Authors>Aviv Naaman</Authors>
+    <RepositoryUrl>https://github.com/avivnaaman/Openu.Api</RepositoryUrl>
+    <Description>A .NET Library for using the API of the open university</Description>
+    <PackageReleaseNotes>A .NET Library for using the API of the open university</PackageReleaseNotes>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>openu,api,dotnet,openuil</PackageTags>
+    <PackageLicenseExpression></PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
